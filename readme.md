@@ -2,12 +2,9 @@
 
 >TinyUrl platform built with the MERN stack.
 
-<img src="public/images/img2-md.jpg">
-<img src="public/images/img1-md.png">
+<img src="frontend/public/images/img2-md.jpg">
+<img src="frontend/public/images/img1-md.png">
 
-## Usage
-
-- Create a MongoDB database and obtain your `MongoDB URI` - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
 
 ### Install Dependencies (frontend & backend)
 
