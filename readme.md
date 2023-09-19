@@ -1,4 +1,5 @@
-#TinyUrl Platform
+
+# TinyUrl Platform
 
 >TinyUrl platform built with the MERN stack.
 
@@ -27,4 +28,4 @@ npm run dev
 
 # Run backend only
 npm run server
-```"# TinyURL_Fullstack" 
+
