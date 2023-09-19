@@ -2,7 +2,8 @@
 # TinyUrl Platform
 
 >TinyUrl platform built with the MERN stack.
-
+See it in action at https://www.proshopdemo.dev
+See it in action [here](https://tinyurl-f.onrender.com)
 <img src="frontend/public/images/img2-md.jpg">
 <img src="frontend/public/images/img1-md.png">
 
