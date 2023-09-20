@@ -1,5 +1,5 @@
 
-# TinyUrl Platform
+# TinyURL Platform
 
 >TinyUrl platform built with the MERN stack.
 See it in action [here](https://tinyurl-f.onrender.com)
